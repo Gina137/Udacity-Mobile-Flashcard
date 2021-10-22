@@ -32,23 +32,50 @@
 
 #### Screenshots
 Empty Deck List
+
 ![empty Deck List](./screenshots/emptydecks.jpg)
+
+
 Deck List
+
 ![Deck List](./screenshots/DeckList.jpg)
+
+
 Deck Detail
+
 ![Deck Detail](./screenshots/DeckDetail.jpg)
+
+
 Add card
+
 ![Addcard](./screenshots/AddCard.jpg)
+
+
 Quiz question
+
 ![quiz](./screenshots/Question.jpg)
+
+
 Quiz question For empty Deck
+
 ![empty Deck](./screenshots/emptyCards.jpg)
+
+
 Quiz answered question
+
 ![answeredquestion](./screenshots/CardAnswer.jpg)
+
+
 Result
+
 ![result](./screenshots/Result.jpg)
+
+
 Add New Deck
+
 ![addDeck](./screenshots/AddDeck.jpg)
+
+
 
 #### Copyright and License
 - supplied without rights.
